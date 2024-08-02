@@ -58,5 +58,5 @@ $$
 [https://p2t.breezedeus.com/](https://p2t.breezedeus.com/)
 
 $$
-C l i m a t e \_N o r m a l_{( t y p e q e r i o d, m o n t h )}=\frac{\sum_{i=S t a r t y e a r}^{E n d y e a r} [ \sum_{i=S t a r t y m o n t h}^{E n d_{m o n t h}} ( C l i m a t e \_v a l u e_{( t y p e d a y, m o n t h y e a r )} ) ]} {( E n d_{m o n t h}-S t a r t_{m o n t h} ) \times3 0} 
+Climate \_Normal_{(typeperiod, month)}=\frac{\sum_{i=Startyear}^{Endyear} [\sum_{i=Startymonth}^{End_{month}} (Climate \value_{(typeday, monthyear)})]} {( End_{month}-Start_{month}) \times30} 
 $$
