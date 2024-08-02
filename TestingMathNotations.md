@@ -19,7 +19,9 @@ $$
 
 # Using Image to generate markdown for formulas
 
-## ChatGPT Generated:
+## ChatGPT Generated: For non tech users/ modfifiers
+
+<img src="Screenshot 2024-08-01 135513.png"/>
 Limited free use
 
 For RH >= 50%
@@ -56,6 +58,8 @@ $$
 
 ## Pix2Text: (Free)
 [https://p2t.breezedeus.com/](https://p2t.breezedeus.com/)
+
+<img src = "\Screenshot 2024-08-01 134150.png"/>
 
 $$
 C l i m a t e \_N o r m a l_{( t y p e q e r i o d, m o n t h )}=\frac{\sum_{i=S t a r t y e a r}^{E n d y e a r} [ \sum_{i=S t a r t y m o n t h}^{E n d_{m o n t h}} ( C l i m a t e \_v a l u e_{( t y p e d a y, m o n t h y e a r )} ) ]} {( E n d_{m o n t h}-S t a r t_{m o n t h} ) \times3 0} 
