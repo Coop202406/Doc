@@ -19,10 +19,11 @@ $$
 
 # Using Image to generate markdown for formulas
 
-## ChatGPT Generated: For non tech users/ modfifiers
+## ChatGPT Generated: For non-tech users/ modfiers
 
-<img src="Screenshot 2024-08-01 135513.png"/>
-Limited free use
+<img src="Screenshot 2024-08-01 135513.png"> Image uploaded</img>
+<br>
+ <p>Limited free use</p>
 
 For RH >= 50%
 
@@ -59,8 +60,9 @@ $$
 ## Pix2Text: (Free)
 [https://p2t.breezedeus.com/](https://p2t.breezedeus.com/)
 
-<img src = "\Screenshot 2024-08-01 134150.png"/>
+<img src = "\Screenshot 2024-08-01 134150.png">Image uploaded</img>
+
 
 $$
-Climate \_Normal_{(typeperiod, month)}=\frac{\sum_{i=Startyear}^{Endyear} [\sum_{i=Startymonth}^{End_{month}} (Climate \value_{(typeday, monthyear)})]} {( End_{month}-Start_{month}) \times30} 
+C l i m a t e \_N o r m a l_{( t y p e, p e r i o d, m o n t h )}=\frac{\sum_{i=S t a r t y e a r}^{E n d y e a r} \left[ \sum_{i=S t a r t y e a r t}^{E n d_{m a t h}} ( c l i m a t e \_v a l u e_{( t y p e d a y, m o n t h, y e a r )} ) \right]} {( E n d_{m a t h}-S t a r t_{m a t h} ) \times3 0} 
 $$
